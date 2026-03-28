@@ -29,8 +29,7 @@ Este projeto foi criado para aprimorar habilidades em desenvolvimento web, inclu
 
 📸 Preview
 
-![Preview do projeto]()
-
+![Preview](img/foto.png)
 ## 👨‍💻 Autor
 
 **Ricardo Martins**
