@@ -28,11 +28,9 @@ Este projeto foi criado para aprimorar habilidades em desenvolvimento web, inclu
 
 ---
 
-## 📸 Preview
+📸 Preview
 
-*(adicione um print do site aqui futuramente)*
-
----
+![Preview do projeto](preview.png)
 
 ## 👨‍💻 Autor
 
